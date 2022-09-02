@@ -3,3 +3,7 @@ venv
 
 # Cached files
 *.pyc
+
+# Proj Files
+*.xls
+*.xlsx

@@ -2,6 +2,8 @@ Sample script to turn Excel spreadsheets and/or Dataframes into an interactive d
 
 - Using Python 3
 
+- You need a sample excel sheet
+
 - Packages:
     - Pandas
     - Plotly
