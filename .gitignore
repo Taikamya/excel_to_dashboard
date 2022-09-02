@@ -4,6 +4,9 @@ venv
 # Cached files
 *.pyc
 
-# Proj Files
+# Proj files
 *.xls
 *.xlsx
+
+# Setting files
+local_settings.py
